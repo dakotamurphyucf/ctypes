@@ -2,7 +2,6 @@ _build
 _opam
 libffi.config
 asneeded.config
-discover
 gen_c_primitives
 gen_c_primitives.log
 gen_libffi_abi
@@ -12,8 +11,6 @@ src/ctypes_config.h
 src/ctypes_config.ml
 src/ctypes-foreign-base/dl_stubs.c
 src/ctypes-foreign-base/dl.ml
-src/discover/commands.cm*
-src/discover/discover.cm*
 src/configure/extract_from_c.cm*
 src/configure/gen_c_primitives.cm*
 src/configure/gen_libffi_abi.cm*
