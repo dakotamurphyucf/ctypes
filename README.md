@@ -1,4 +1,4 @@
-```this is a clone of a branch that includes a needed dependency for ssl support with async. this is a temp solution until async updates its ssl lib so that it is compadible with the main ctypes repo```
+```this is a clone of a branch that includes a needed dependency for ssl support with async. this is a temp solution until async updates its ssl lib so that it is compatible with the main ctypes repo```
 
 ctypes is a library for binding to C libraries using pure OCaml.  The primary aim is to make writing C extensions as straightforward as possible.
 
